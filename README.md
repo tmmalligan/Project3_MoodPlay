@@ -1,6 +1,6 @@
 # Project3_MoodPlay
 
-State 1 - Press Button Once and Press '1' on Key for Static State
+State 1 - Press Button Once and Press '1' on Key for Home Page
 
 State 2 - Press Button Twice and Press '2' on Key for Rap State
 
